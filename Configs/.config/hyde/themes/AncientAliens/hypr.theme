@@ -6,10 +6,10 @@ $COLOR_SCHEME= prefer-dark
 $CURSOR_THEME= AncientFuturism
 $CURSOR_SIZE= 24
 $FONT= Electrolize
-$DOCUMENT-FONT= Electrolize
-$BAR-FONT= Electrolize
-$NOTIFICATION-FONT= Electrolize
-$MENU-FONT= Electrolize
+$DOCUMENT_FONT= Electrolize
+$BAR_FONT= Electrolize
+$NOTIFICATION_FONT= Electrolize
+$MENU_FONT= Electrolize
 
 general { 
   gaps_in = 8
